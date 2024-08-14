@@ -130,7 +130,7 @@
 ![Screenshot 2024-08-13 201456](https://github.com/user-attachments/assets/2a00207f-3e9a-4a6e-9c47-c07075945dfc)
 - Data is being sent in packets.
 - Servers are identified based on the IP Address(x.x.x.x)
-- X- can have value between 0-25
+- X- can have value between 0-255
 - Every device that communicates on the internet have IP Address.
 - IP Address are mapped to a name hance we hit the name.
 - This name to IP address is done by DNS(Domain Name System).
